@@ -17,6 +17,14 @@ table {
     width: 900px;
 }
 
+#szin{
+    background-color: rgb(210, 125, 45);
+}
+
+#betu{
+    color: aliceblue;
+}
+
 .parent {
     display: flex;
     gap: 20px;
