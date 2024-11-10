@@ -1,7 +1,12 @@
-#doboz{
+.doboz{
     background-color: aliceblue;
     color: black;
 }
 body{
     background-color: rgb(210, 125, 45);
+}
+
+#kepek{
+    width: 900px;
+    margin: auto;
 }
