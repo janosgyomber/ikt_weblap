@@ -1,6 +1,8 @@
 .doboz{
     background-color: aliceblue;
     color: black;
+    width: 500px;
+    margin: auto;
 }
 body{
     background-color: rgb(210, 125, 45);
