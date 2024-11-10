@@ -1,5 +1,5 @@
 .doboz{
-    background-color: aliceblue;
+    background-color: rgb(210, 125, 45);
     color: black;
     width: 500px;
     margin: auto;
@@ -15,4 +15,12 @@ body{
 table {
     margin: auto;
     width: 900px;
+}
+
+#szin{
+    background-color: rgb(210, 125, 45);
+}
+
+#betu{
+    color: aliceblue;
 }
