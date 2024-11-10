@@ -16,6 +16,7 @@ table {
     margin: auto;
     width: 900px;
 }
+<<<<<<< HEAD
 
 #szin{
     background-color: rgb(210, 125, 45);
@@ -23,4 +24,10 @@ table {
 
 #betu{
     color: aliceblue;
+=======
+h3{
+    margin: auto;
+    padding: 0;
+    
+>>>>>>> 734ac1d463acb4fd47cefc55dd35e5bf82627034
 }
