@@ -16,3 +16,14 @@ table {
     margin: auto;
     width: 900px;
 }
+
+.parent {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+  }
+  .child {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  }
