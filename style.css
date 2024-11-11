@@ -1,8 +1,26 @@
 .doboz{
     background-color: rgb(210, 125, 45);
-    color: black;
-    width: 500px;
+    color: aliceblue;
+    max-width: 500px;
     margin: auto;
+    border-radius: 25px;
+    padding-bottom: 10px;
+    text-align: center;
+    align-content: center;
+}
+
+#mellett{
+    display: flex;
+}
+
+#kep{
+    max-width: 450px;
+    align-items: center;
+    
+}
+
+#bal{
+    text-align: left;
 }
 body{
     background-color: rgb(210, 125, 45);
