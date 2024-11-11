@@ -11,6 +11,8 @@ body{
 #kepek{
     width: 900px;
     margin: auto;
+    padding-bottom: 10px;
+    padding-top: 5px;
 }
 table {
     margin: auto;
@@ -23,6 +25,20 @@ table {
 
 #betu{
     color: aliceblue;
+}
+
+.szoveg{
+    background-color:  rgb(210, 125, 45);
+    border-radius: 25px;
+    max-width: 1200px;
+}
+
+#kozep{
+    padding-left: 500px;
+}
+
+#tabla{
+    padding-bottom: 20px;
 }
 
 .parent {
