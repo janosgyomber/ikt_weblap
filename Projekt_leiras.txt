@@ -1,0 +1,4 @@
+Projekt neve: Építőipari vállalkozás
+Csapatvezető neve: Gyömbér János
+Tagok nevei: Bándi Bernát, Rideg Levente, Gyömbér János
+Projekt rövid leírása: Ebben a projektben egy képzeletbeli építőipari vállalkozás weboldalát csinátuk meg HTML, CSS és Bootstrap segítségével.
